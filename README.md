@@ -1,4 +1,4 @@
-# Dekstop-voice-assistant
+# Desktop-voice-assistant
 Project Title: Personalised Desktop Voice Assistant
 
 Project description:
